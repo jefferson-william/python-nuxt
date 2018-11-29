@@ -1,0 +1,32 @@
+{
+  "name": "python-nuxt",
+  "version": "1.0.0",
+  "description": "Python + Nuxt basic example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefferson-william/python-nuxt.git"
+  },
+  "keywords": [
+    "python",
+    "nuxt",
+    "example"
+  ],
+  "author": "Jefferson William Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefferson-william/python-nuxt/issues"
+  },
+  "homepage": "https://github.com/jefferson-william/python-nuxt#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "nuxt": "^1.4.1"
+  }
+}
